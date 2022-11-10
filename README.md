@@ -47,30 +47,21 @@ Accuracy is a metric also based on the confusion matrix. In this case we will ta
 
 ![image](_src/olist2.JPG)<br>
 
-## General Steps
 
-1. Exploratory Data Analysis (EDA)
-2. Data Preprocessing
-3. First Modeling Batch (Working with raw data)
-4. Second Modeling Batch (Aplying One hot Encoding)
-5. Third Modeling Batch (Evaluating StandardScaler)
-6. Fourth Modeling Batch (Evaluating Dimension Reduction using PCA)
-7. Final model selection and searching for best hyperparameters with GridSearchCV
-8. Conclusions
+## Calidad de entregas
 
-For more deep information please don't hesitate to open the main.ipynb.
-
-
+Accuracy is a metric also based on the confusion matrix. In this case we will take this metric to evaluate the classification performance for both class 1 and class
+0 in our target variable. Note that in this exercise the primary class will be class 1, i.e. those shipments that do not arrive on time.
 
 ![image](_src/olist3.JPG)<br>
 
 
+
 ## Documentation
 
-* [Sckit-Learn Documentation](https://scikit-learn.org/stable/index.html#)
+* [Documentación de ArcGIS](https://scikit-learn.org/stable/index.html#](https://doc.arcgis.com/es/)
 * [StandardScaler vs MinMaxScaler](https://stackoverflow.com/questions/61255108/python-numpy-ravel-function-not-flattening-array)
-* [Video: Scaling, Normalization and Standardization (Spanish)](https://www.youtube.com/watch?v=-VuR14Qyl7E&lc=UgyGv3R3K4siP3YPgLh4AaABAg.9gDcR4wNAti9gDnlbOEOx4)
-* [Video: How to implement One Hot Encoding](https://www.youtube.com/watch?v=InZ0n2knz1E&lc=UgymfF3vTXC8PFTFOZR4AaABAg.9gAv8UJZvWe9gBrEABT8oV)
+
 
 ## Contact
 

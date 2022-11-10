@@ -1,47 +1,51 @@
 # Olist-Brazilian-E-Commerce-Analysis
-Se hizo un dashboard con datos publicos de olist
+Dashboard realizado con el dataset público de las órdenes realizadas en Olist. El conjunto de datos se compone de 100 k órdenes comprendidos entre el 2016 y el 2018 realizados en múltiples marketplaces en Brasil.
 
-## Problem Description
-We are part of a logistics company that works for an important E-Commerce portal, and our Team Leader gives us the task of implementing a model that allows us to predict
-whether a shipment will arrive on time or not, according to the 
-information contained in the dataset.
+## Contexto
 
-## About the dataset
+Olist es una empresa de tecnología que facilita a cualquier persona que quiera vender en los principales marketplaces de Brasil a través de una plataforma que permite la publicación, generación de órdenes y gestión de enviós en un solo lugar. Para mas información puede visitar ww.olist.com.
 
-The main dataset is a version of Kaggle [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). This dataset contains the following information:
+Después de que un cliente compra el producto de Olist Store, se notifica a un vendedor para cumplir con ese pedido. Una vez que el cliente recibe el producto, o vence la fecha estimada de entrega, el cliente recibe una encuesta de satisfacción por correo electrónico donde puede dejar una nota sobre la experiencia de compra y anotar algunos comentarios.
 
-* ID: ID Number of Customers.
-* Warehouse block: The Company have big Warehouse which is divided in to block such as A,B,C,D,E.
-* Mode of shipment:The Company Ships the products in multiple way such as Ship, Flight and Road.
-* Customer care calls: The number of calls made from enquiry for enquiry of the shipment.
-* Customer rating: The company has rated from every customer. 1 is the lowest (Worst), 5 is the highest (Best).
-* Cost of the product: Cost of the Product in US Dollars.
-* Prior purchases: The Number of Prior Purchase.
-* Product importance: The company has categorized the product in the various parameter such as low, medium, high.
-* Gender: Male and Female.
-* Discount offered: Discount offered on that specific product.
-* Weight in gms: It is the weight in grams.
-* Reached on time: It is the target variable, where 1 Indicates that the product has NOT reached on time and 0 indicates it has reached on time.
+Con estos datos se analizará aspectos clave del negocio como las Ventas, Logistica y Calidad.
 
-## Metrics to be evaluated
+## Notas
 
-### [Recall](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html)
+1. Los datos se encuentran en inglés.
+2. Todo el texto que identifica tiendas y socios fue reemplazado por los nombres de las grandes casas de Game of Thrones.
+
+## Acerca del conjunto de datos
+
+El conjunto de datos principal es una versión de Kaggle [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). 
+Las características de estos datos permiten visualizar un pedido desde múltiples dimensiones.
+
+
+* Estado de orden (order status)
+* Precio (Price).
+* Pago (Payment)
+* (Freight Performance)
+* Atributos de producto (Product attributes)
+* Reviews written by customers
+* Códigos postales brasileños con coordenadas de longitud y latitud.
+
+
+
+## Aspectos de evaluación
+
+## Ventas
 
 Recall of the Confusion Matrix will be used as a method for evaluating model performance. Our main interest is to find those shipments that will not arrive on time. **The recall will answer the question: 
 What percentage of shipments that do not arrive on time are we able to identify?**
 
-$$ Recall=\frac{TP}{TP+FN}$$
 
-where $TP$ the true positives and $FN$ the false negatives.
+![image](_src/olist1.JPG)<br>
 
-## [Accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
+## Logística
 
 Accuracy is a metric also based on the confusion matrix. In this case we will take this metric to evaluate the classification performance for both class 1 and class
 0 in our target variable. Note that in this exercise the primary class will be class 1, i.e. those shipments that do not arrive on time.
 
-$$ Accuracy=\frac{TP + TN}{TP+ TN + FN + FP}$$
-
-where $TP$ the true positives, $TN$ true negatives, $FN$ false negatives, $FP$ false positives.
+![image](_src/olist2.JPG)<br>
 
 ## General Steps
 
@@ -56,12 +60,12 @@ where $TP$ the true positives, $TN$ true negatives, $FN$ false negatives, $FP$ f
 
 For more deep information please don't hesitate to open the main.ipynb.
 
-![image](_src/olist1.JPG)<br>
-![image](_src/olist2.JPG)<br>
+
+
 ![image](_src/olist3.JPG)<br>
 
 
-## Documentation to highlight
+## Documentation
 
 * [Sckit-Learn Documentation](https://scikit-learn.org/stable/index.html#)
 * [StandardScaler vs MinMaxScaler](https://stackoverflow.com/questions/61255108/python-numpy-ravel-function-not-flattening-array)
@@ -70,7 +74,6 @@ For more deep information please don't hesitate to open the main.ipynb.
 
 ## Contact
 
-Greetings,
-Jean Paul Fabra Ruiz: jeanfabra11@gmail.com 
+Jorge Galicia Torres : jgaliciator@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/jeanfabra/

@@ -59,7 +59,7 @@ Accuracy is a metric also based on the confusion matrix. In this case we will ta
 
 ## Documentation
 
-* [Documentación de ArcGIS](https://scikit-learn.org/stable/index.html#](https://doc.arcgis.com/es/)
+* [Documentación de ArcGIS](https://doc.arcgis.com/es/)
 * [StandardScaler vs MinMaxScaler](https://stackoverflow.com/questions/61255108/python-numpy-ravel-function-not-flattening-array)
 
 

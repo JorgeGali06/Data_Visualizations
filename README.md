@@ -7,7 +7,6 @@ Olist es una empresa de tecnología que facilita a cualquier persona que quiera 
 
 Después de que un cliente compra el producto de Olist Store, se notifica a un vendedor para cumplir con ese pedido. Una vez que el cliente recibe el producto, o vence la fecha estimada de entrega, el cliente recibe una encuesta de satisfacción por correo electrónico donde puede dejar una nota sobre la experiencia de compra y anotar algunos comentarios.
 
-Con estos datos se analizará aspectos clave del negocio como las Ventas, Logistica y Calidad.
 
 ## Notas
 
@@ -31,6 +30,10 @@ Las características de estos datos permiten visualizar un pedido desde múltipl
 
 
 ## Aspectos de evaluación
+
+Con estos datos se analizará aspectos clave del negocio como las Ventas, Logistica y Calidad.
+
+Siéntete libre de descargar el archivo .pbix para interactuar con los paneles para una mejor comprensión y experiencia.
 
 ## Ventas
 

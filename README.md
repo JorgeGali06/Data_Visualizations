@@ -1,21 +1,6 @@
 # Olist-Brazilian-E-Commerce-Analysis
 Se hizo un dashboard con datos publicos de olist
 
-## About the dataset
-
-The main dataset is a version of Kaggle [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). This dataset contains the following information:
-
-![image](_src/olist1.JPG)<br>
-![image](_src/olist2.JPG)<br>
-![image](_src/olist3.JPG)<br>
-
-
-
-
-# E-commerceML
-
-Machine Learning model development for a transport company, the objective is to predict whether an order will arrive on time or not.
-
 ## Problem Description
 We are part of a logistics company that works for an important E-Commerce portal, and our Team Leader gives us the task of implementing a model that allows us to predict
 whether a shipment will arrive on time or not, according to the 
@@ -23,7 +8,7 @@ information contained in the dataset.
 
 ## About the dataset
 
-The main dataset is a version of Kaggle [E-Commerce Shipping Data](https://www.kaggle.com/datasets/prachi13/customer-analytics). This dataset contains the following information:
+The main dataset is a version of Kaggle [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). This dataset contains the following information:
 
 * ID: ID Number of Customers.
 * Warehouse block: The Company have big Warehouse which is divided in to block such as A,B,C,D,E.
@@ -70,6 +55,11 @@ where $TP$ the true positives, $TN$ true negatives, $FN$ false negatives, $FP$ f
 8. Conclusions
 
 For more deep information please don't hesitate to open the main.ipynb.
+
+![image](_src/olist1.JPG)<br>
+![image](_src/olist2.JPG)<br>
+![image](_src/olist3.JPG)<br>
+
 
 ## Documentation to highlight
 

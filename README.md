@@ -63,11 +63,11 @@ Accuracy is a metric also based on the confusion matrix. In this case we will ta
 ## Documentation
 
 * [Documentación de ArcGIS](https://doc.arcgis.com/es/)
-* [StandardScaler vs MinMaxScaler](https://stackoverflow.com/questions/61255108/python-numpy-ravel-function-not-flattening-array)
+
 
 
 ## Contact
 
 Jorge Galicia Torres : jgaliciator@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/jeanfabra/
+LinkedIn: https://www.linkedin.com/in//

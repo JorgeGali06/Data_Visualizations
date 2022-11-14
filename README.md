@@ -1,4 +1,4 @@
-# Olist Brazilian E-Commerce Dashboard
+# Data_Visualizations
 Dashboard realizado con el dataset público de las órdenes realizadas en Olist. El conjunto de datos se compone de 100 k órdenes comprendidos entre el 2016 y el 2018 realizados en múltiples marketplaces en Brasil.
 
 ## Contexto

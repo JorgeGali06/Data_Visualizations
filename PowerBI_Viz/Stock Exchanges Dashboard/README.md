@@ -26,7 +26,7 @@ Siéntete libre de descargar el archivo .pbix para interactuar con los paneles p
 Recall of the Confusion Matrix will be used as a method for evaluating model performance. Our main interest is to find those shipments that will not arrive on time. **The recall will answer the question: 
 What percentage of shipments that do not arrive on time are we able to identify?**
 
-
+![image](src/NasdaqDashboard.JPG)<br>
 
 
 ## Documentación

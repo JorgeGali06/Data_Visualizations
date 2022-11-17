@@ -6,24 +6,20 @@ Dashboard realizado con el dataset público de las órdenes realizadas en la pla
 Olist es una empresa de tecnología que facilita a cualquier persona que quiera vender en los principales marketplaces de Brasil a través de una plataforma que permite la publicación, generación de órdenes y gestión de enviós en un solo lugar. Para mas información puede visitar ww.olist.com.
 
 
-## Notas
-
-1. Los datos se encuentran en inglés.
-2. Todo el texto que identifica tiendas y socios fue reemplazado por los nombres de las grandes casas de Game of Thrones.
 
 ## Acerca del conjunto de datos
 
 El conjunto de datos principal es una versión de Kaggle [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). 
-Las características de estos datos permiten visualizar un pedido desde múltiples dimensiones:
+Se pueden visualizar las órdenes desde múltiples dimensiones:
 
 
-* Order status.
-* Price.
-* Payment.
-* Freight Performance.
-* Product attributes.
-* Reviews written by customers.
-* Zip codes with lat/lon
+* Estado de la orden.
+* Precio.
+* Tipo de pago.
+* Desempeño de envío.
+* Atributos del producto.
+* Reseñas de los clientes.
+* Códigos zip - lat/lng.
 
 
 

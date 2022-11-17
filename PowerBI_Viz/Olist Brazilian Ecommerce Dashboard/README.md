@@ -14,7 +14,7 @@ Olist es una empresa de tecnología que facilita a cualquier persona que quiera 
 ## Acerca del conjunto de datos
 
 El conjunto de datos principal es una versión de Kaggle [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). 
-Las características de estos datos permiten visualizar un pedido desde múltiples dimensiones.
+Las características de estos datos permiten visualizar un pedido desde múltiples dimensiones:
 
 
 * Order status.
@@ -29,7 +29,7 @@ Las características de estos datos permiten visualizar un pedido desde múltipl
 
 ## Aspectos de evaluación
 
-Con estos datos se analizará aspectos clave del negocio como las Ventas, Logistica y Calidad.
+Se abarcó  tres aspectos clave del negocio de Olist como las Ventas, Logistica y Calidad.
 
 Siéntete libre de descargar el archivo .pbix para interactuar con los paneles para una mejor comprensión y experiencia.
 
@@ -55,7 +55,7 @@ Siéntete libre de descargar el archivo .pbix para interactuar con los paneles p
 
 
 
-## Documentation
+## Documentación
 
 * [Documentación de ArcGIS](https://doc.arcgis.com/es/)
 
@@ -65,4 +65,4 @@ Siéntete libre de descargar el archivo .pbix para interactuar con los paneles p
 
 Jorge Galicia Torres : jgaliciator@gmail.com
 
-LinkedIn: https://www.linkedin.com/in//
+LinkedIn: https://www.linkedin.com/in/jorge-galicia-torres/  

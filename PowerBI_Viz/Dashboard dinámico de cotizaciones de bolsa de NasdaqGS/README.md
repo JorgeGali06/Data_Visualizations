@@ -18,4 +18,4 @@ El conjunto de datos se obtiene designando como origen de datos al portal de Yah
 
 Jorge Galicia Torres : jgaliciator@gmail.com
 
-LinkedIn: https://www.linkedin.com/in//
+LinkedIn: https://www.linkedin.com/in/jorge-galicia-torres/

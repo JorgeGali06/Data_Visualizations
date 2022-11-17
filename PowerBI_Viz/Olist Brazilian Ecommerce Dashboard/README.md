@@ -1,11 +1,9 @@
 # Olist Brazilian E-Commerce Dashboard
-Dashboard realizado con el dataset público de las órdenes realizadas en Olist. El conjunto de datos se compone de 100 k órdenes comprendidos entre el 2016 y el 2018 realizados en múltiples marketplaces en Brasil.
+Dashboard realizado con el dataset público de las órdenes realizadas en Olist. El conjunto de datos se compone de 100 K órdenes comprendidas entre el año 2016 y 2018 realizados en múltiples marketplaces en Brasil.
 
 ## Contexto
 
 Olist es una empresa de tecnología que facilita a cualquier persona que quiera vender en los principales marketplaces de Brasil a través de una plataforma que permite la publicación, generación de órdenes y gestión de enviós en un solo lugar. Para mas información puede visitar ww.olist.com.
-
-Después de que un cliente compra el producto de Olist Store, se notifica a un vendedor para cumplir con ese pedido. Una vez que el cliente recibe el producto, o vence la fecha estimada de entrega, el cliente recibe una encuesta de satisfacción por correo electrónico donde puede dejar una nota sobre la experiencia de compra y anotar algunos comentarios.
 
 
 ## Notas
@@ -19,13 +17,13 @@ El conjunto de datos principal es una versión de Kaggle [Brazilian E-Commerce P
 Las características de estos datos permiten visualizar un pedido desde múltiples dimensiones.
 
 
-* Estado de orden (order status)
-* Precio (Price).
-* Pago (Payment)
-* (Freight Performance)
-* Atributos de producto (Product attributes)
-* Reviews written by customers
-* Códigos postales brasileños con coordenadas de longitud y latitud.
+* Order status.
+* Price.
+* Payment.
+* Freight Performance.
+* Product attributes.
+* Reviews written by customers.
+* Zip codes with lat/lon
 
 
 
@@ -37,24 +35,21 @@ Siéntete libre de descargar el archivo .pbix para interactuar con los paneles p
 
 ## Ventas
 
-Recall of the Confusion Matrix will be used as a method for evaluating model performance. Our main interest is to find those shipments that will not arrive on time. **The recall will answer the question: 
-What percentage of shipments that do not arrive on time are we able to identify?**
+
 
 
 ![image](_src/olist1.JPG)<br>
 
 ## Logística
 
-Accuracy is a metric also based on the confusion matrix. In this case we will take this metric to evaluate the classification performance for both class 1 and class
-0 in our target variable. Note that in this exercise the primary class will be class 1, i.e. those shipments that do not arrive on time.
+
 
 ![image](_src/olist2.JPG)<br>
 
 
 ## Calidad de entregas
 
-Accuracy is a metric also based on the confusion matrix. In this case we will take this metric to evaluate the classification performance for both class 1 and class
-0 in our target variable. Note that in this exercise the primary class will be class 1, i.e. those shipments that do not arrive on time.
+
 
 ![image](_src/olist3.JPG)<br>
 

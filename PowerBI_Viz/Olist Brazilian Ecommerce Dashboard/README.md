@@ -1,5 +1,5 @@
 # Olist Brazilian E-Commerce Dashboard
-Dashboard realizado con el dataset público de las órdenes realizadas en la plataforma de Olist. El conjunto de datos se compone de 100 K órdenes comprendidas entre el año 2016 y 2018 realizados en múltiples marketplaces en Brasil.
+Dashboard realizado con el dataset público de las órdenes realizadas en la plataforma de Olist. El conjunto de datos se compone de 100k órdenes comprendidas entre el año 2016 y 2018 realizados en múltiples marketplaces en Brasil.
 
 ## Contexto
 

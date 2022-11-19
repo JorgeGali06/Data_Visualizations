@@ -6,6 +6,8 @@ En este proyecto se realizó la tarea de extraer datos de Yahoo Finance sobre lo
 
 El conjunto de datos se obtiene designando como origen de datos al portal de Yahoo Finance de donde se hacen las consultas dinámicamente a través de código. También se hace uso de un archivo de Excel que cumple la única función de limitar los valores de interés.  
 
+La actualización de datos se realiza en PowerBi Desktop para ver registros recientes en el dashboard de PowerBi Service.
+
 
 ## Dashboard
 

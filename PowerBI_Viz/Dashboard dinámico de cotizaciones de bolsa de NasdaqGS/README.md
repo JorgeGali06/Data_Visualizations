@@ -18,6 +18,6 @@ La actualización de datos se realiza en PowerBi Desktop para ver registros reci
 
 ## Contacto
 
-Jorge Galicia Torres : jgaliciator@gmail.com
+Jorge Galicia Torres : jgaliciator@gmail.com 
 
 LinkedIn: https://www.linkedin.com/in/jorge-galicia-torres/

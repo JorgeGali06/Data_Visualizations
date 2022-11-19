@@ -9,7 +9,7 @@ El conjunto de datos se obtiene designando como origen de datos al portal de Yah
 
 ## Dashboard
 
-
+[Interactúa con el dashboard aquí.](https://app.powerbi.com/view?r=eyJrIjoiMTE3ZDI4MWUtYjc3ZS00MDBhLWFjMWItODBmNTVjMTZkMDdiIiwidCI6Ijk4MjAxZmVmLWQ5ZjYtNGU2OC04NGY1LWMyNzA1MDc0ZTM0MiIsImMiOjR9&pageName=ReportSection)
 
 ![image](src/NasdaqDashboard.JPG)<br>
 

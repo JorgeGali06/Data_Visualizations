@@ -2,7 +2,7 @@
 
 [Visualize proyect here](https://public.tableau.com/views/Libro1_16690549753250/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
-![image](_src/olist1.JPG)<br>
+![image](_src/prueba1.JPG)<br>
 
 
 ## Contact

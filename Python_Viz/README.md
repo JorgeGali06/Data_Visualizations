@@ -28,7 +28,7 @@ MATPLOTLIB
 
 ## Documentación
 
-* [Documentación de OpenCV]([https://doc.arcgis.com/es/](https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html))
+* [Documentación de OpenCV]([(https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html)])
 * [Documentación de FER]([https://doc.arcgis.com/es/]([https://pypi.org/project/fer/](https://github.com/justinshenk/fer)))
 
 

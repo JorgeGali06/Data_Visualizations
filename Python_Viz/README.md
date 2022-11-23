@@ -14,8 +14,12 @@ Third procedure:  Graph Plotting in Python.
 Fourth procedure: Generation of results per emotion.
 
 
-Used libraries:
+## Libraries:
+
 OpenCV
+
 FER
+
 TENSORFLOW WITH KERAS
+
 MATPLOTLIB
